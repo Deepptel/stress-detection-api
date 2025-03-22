@@ -3,5 +3,3 @@ uvicorn
 tensorflow
 transformers
 tf-keras
-tensorflow==2.12.0
-tf-keras==2.12.0
