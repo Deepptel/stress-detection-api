@@ -2,3 +2,6 @@ fastapi
 uvicorn
 tensorflow
 transformers
+tf-keras
+tensorflow==2.10.0
+tf-keras==2.10.0
